@@ -1,0 +1,7 @@
+# Python-generated files & environment
+.venv/
+__pycache__/
+*.egg-info
+.ipynb_checkpoints/
+data/*.csv
+.env
